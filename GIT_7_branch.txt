@@ -1,0 +1,15 @@
+*   b57001e Rozwiazano konflikt README
+|\  
+| * c23ba97 Zmiana README na test
+| * 50d0c49 Dodano pliki GIT_7 na galezi test
+| * ac92771 Dodano pliki z wynikami dla galezi test
+* | 5d7422b Zmiana README na main
+|/  
+* 5c5e08f Dodano logi git
+* 3b68962 Dodano git show
+* 44c7006 Dodano opis zmian git diff
+* 8c2a74b Dodano README
+* 2e28d7c Zmiany po usunięciu i restore plików
+* 88121f8 Dodano pliki ze statusem repo
+* f450168 Dodano pomysł z GIT_1
+* be46ce8 Dodano plik z wersją Git
