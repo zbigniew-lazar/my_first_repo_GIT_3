@@ -1,0 +1,2 @@
+origin	https://github.com/zbigniew-lazar/my_first_repo_GIT_3.git (fetch)
+origin	https://github.com/zbigniew-lazar/my_first_repo_GIT_3.git (push)
