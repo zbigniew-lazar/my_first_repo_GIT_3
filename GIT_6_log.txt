@@ -1,0 +1,41 @@
+commit 3b689623f6ffc6c67ac2abcb15e2b79682f34bad
+Author: Zbigniew Lazar <pd5417@pjwstk.edu.pl>
+Date:   Sun May 10 13:18:35 2026 +0200
+
+    Dodano git show
+
+commit 44c7006f20801c5accc07362e504cd263b97b304
+Author: Zbigniew Lazar <pd5417@pjwstk.edu.pl>
+Date:   Sun May 10 12:49:32 2026 +0200
+
+    Dodano opis zmian git diff
+
+commit 8c2a74b7638395820cddb96e535be17092e281f9
+Author: Zbigniew Lazar <pd5417@pjwstk.edu.pl>
+Date:   Sun May 10 12:13:09 2026 +0200
+
+    Dodano README
+
+commit 2e28d7c1c384403115b668ab769984198ba6b9f4
+Author: Zbigniew Lazar <pd5417@pjwstk.edu.pl>
+Date:   Sun May 10 12:08:43 2026 +0200
+
+    Zmiany po usunięciu i restore plików
+
+commit 88121f8c026b08b3333cf29fcb271236aebc6f6c
+Author: Zbigniew Lazar <pd5417@pjwstk.edu.pl>
+Date:   Sun May 10 12:06:56 2026 +0200
+
+    Dodano pliki ze statusem repo
+
+commit f450168a703b8edba3a825cc199b34cf62a22c13
+Author: Zbigniew Lazar <pd5417@pjwstk.edu.pl>
+Date:   Sun May 10 12:03:15 2026 +0200
+
+    Dodano pomysł z GIT_1
+
+commit be46ce8c70c959ae2cc749d8ab7773dc4234e356
+Author: Zbigniew Lazar <pd5417@pjwstk.edu.pl>
+Date:   Sun May 10 11:58:40 2026 +0200
+
+    Dodano plik z wersją Git

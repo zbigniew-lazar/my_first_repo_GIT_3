@@ -1,0 +1,7 @@
+3b68962 Dodano git show
+44c7006 Dodano opis zmian git diff
+8c2a74b Dodano README
+2e28d7c Zmiany po usunięciu i restore plików
+88121f8 Dodano pliki ze statusem repo
+f450168 Dodano pomysł z GIT_1
+be46ce8 Dodano plik z wersją Git
