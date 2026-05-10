@@ -1,0 +1,27 @@
+commit 44c7006f20801c5accc07362e504cd263b97b304
+Author: Zbigniew Lazar <pd5417@pjwstk.edu.pl>
+Date:   Sun May 10 12:49:32 2026 +0200
+
+    Dodano opis zmian git diff
+
+diff --git a/GIT_5_diff.txt b/GIT_5_diff.txt
+new file mode 100644
+index 0000000..266445a
+--- /dev/null
++++ b/GIT_5_diff.txt
+@@ -0,0 +1,5 @@
++Na podstawie polecenia git diff stwierdzono, że do pliku README.md została dodana nowa linia tekstu oznaczona symbolem "+".
++
++Symbol "+" oznacza dodanie nowej zawartości, natomiast "-" oznaczałby usunięcie.
++
++Polecenie git diff pozwala na porównanie zmian pomiędzy aktualnym stanem plików a ostatnim commitem.
+\ No newline at end of file
+diff --git a/README.md b/README.md
+index 08ab5b6..108d3ca 100644
+--- a/README.md
++++ b/README.md
+@@ -16,3 +16,4 @@ Numer słuchacza: pd5417
+ 
+ Repozytorium zawiera pliki przygotowane w ramach zadań z przedmiotu System kontroli wersji.
+ 
++test diff
