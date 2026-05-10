@@ -8,5 +8,7 @@ GIT_5_diff.txt
 GIT_6_log.txt
 GIT_6_log_oneline.txt
 GIT_6_show.txt
+GIT_7_log.txt
 GIT_7_ls.txt
+GIT_7_status.txt
 README.md

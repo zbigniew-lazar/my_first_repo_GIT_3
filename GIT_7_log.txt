@@ -1,3 +1,9 @@
+commit ac92771821ef5a3e1d04e741ec843129e8c7ec36
+Author: Zbigniew Lazar <pd5417@pjwstk.edu.pl>
+Date:   Sun May 10 13:33:19 2026 +0200
+
+    Dodano pliki z wynikami dla galezi test
+
 commit 5c5e08f6169e8f8d47c9a7f4b59f31eb9e01deb3
 Author: Zbigniew Lazar <pd5417@pjwstk.edu.pl>
 Date:   Sun May 10 13:29:20 2026 +0200
