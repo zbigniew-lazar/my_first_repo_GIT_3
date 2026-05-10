@@ -1,0 +1,24 @@
+* 2468aa7 Dodano log do cherry-pick
+* bc9f6d5 Dodano log po rebase
+* 4c08edf Polaczono zmiany stash i stan repozytorium
+*   50f1631 Merge branch 'test'
+|\  
+| * 047ac92 Dodano diff ostatnich rewizji
+| * 8a20821 Dodano log na galezi test
+* | eb3759e Dodano liste stash
+* | 3c58365 Dodano graf galezi
+* | b57001e Rozwiazano konflikt README
+|\| 
+| * c23ba97 Zmiana README na test
+| * 50d0c49 Dodano pliki GIT_7 na galezi test
+| * ac92771 Dodano pliki z wynikami dla galezi test
+* | 5d7422b Zmiana README na main
+|/  
+* 5c5e08f Dodano logi git
+* 3b68962 Dodano git show
+* 44c7006 Dodano opis zmian git diff
+* 8c2a74b Dodano README
+* 2e28d7c Zmiany po usunięciu i restore plików
+* 88121f8 Dodano pliki ze statusem repo
+* f450168 Dodano pomysł z GIT_1
+* be46ce8 Dodano plik z wersją Git
