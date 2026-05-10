@@ -1,0 +1,46 @@
+7ffd769 HEAD@{0}: commit: Dodano log po reset
+40d843d HEAD@{1}: reset: moving to HEAD~1
+4788f75 HEAD@{2}: commit: Dodano log do GIT_9
+40d843d HEAD@{3}: checkout: moving from main to main
+40d843d HEAD@{4}: checkout: moving from main to main
+40d843d HEAD@{5}: commit: Dodano log po cherry-pick
+2468aa7 HEAD@{6}: cherry-pick: Dodano log do cherry-pick
+bc9f6d5 HEAD@{7}: checkout: moving from test to main
+765287b HEAD@{8}: commit: Dodano log do cherry-pick
+047ac92 HEAD@{9}: checkout: moving from main to test
+bc9f6d5 HEAD@{10}: commit: Dodano log po rebase
+4c08edf HEAD@{11}: rebase (finish): returning to refs/heads/main
+4c08edf HEAD@{12}: rebase (squash): Polaczono zmiany stash i stan repozytorium
+ba2416b HEAD@{13}: rebase (start): checkout HEAD~2
+83e48da HEAD@{14}: commit: Dodano stan repozytorium
+ba2416b HEAD@{15}: commit: Przywrocono zmiany ze stash
+50f1631 HEAD@{16}: reset: moving to HEAD
+50f1631 HEAD@{17}: merge test: Merge made by the 'ort' strategy.
+eb3759e HEAD@{18}: checkout: moving from test to main
+047ac92 HEAD@{19}: commit: Dodano diff ostatnich rewizji
+8a20821 HEAD@{20}: commit: Dodano log na galezi test
+c23ba97 HEAD@{21}: checkout: moving from main to test
+eb3759e HEAD@{22}: commit: Dodano liste stash
+3c58365 HEAD@{23}: reset: moving to HEAD
+3c58365 HEAD@{24}: checkout: moving from main to main
+3c58365 HEAD@{25}: commit: Dodano graf galezi
+b57001e HEAD@{26}: commit (merge): Rozwiazano konflikt README
+5d7422b HEAD@{27}: checkout: moving from test to main
+c23ba97 HEAD@{28}: commit: Zmiana README na test
+50d0c49 HEAD@{29}: checkout: moving from main to test
+5d7422b HEAD@{30}: commit: Zmiana README na main
+5c5e08f HEAD@{31}: checkout: moving from test to main
+50d0c49 HEAD@{32}: commit: Dodano pliki GIT_7 na galezi test
+ac92771 HEAD@{33}: checkout: moving from main to test
+5c5e08f HEAD@{34}: checkout: moving from test to main
+ac92771 HEAD@{35}: commit: Dodano pliki z wynikami dla galezi test
+5c5e08f HEAD@{36}: checkout: moving from main to test
+5c5e08f HEAD@{37}: commit: Dodano logi git
+3b68962 HEAD@{38}: commit: Dodano git show
+44c7006 HEAD@{39}: commit: Dodano opis zmian git diff
+8c2a74b HEAD@{40}: Branch: renamed refs/heads/master to refs/heads/main
+8c2a74b HEAD@{42}: commit: Dodano README
+2e28d7c HEAD@{43}: commit: Zmiany po usunięciu i restore plików
+88121f8 HEAD@{44}: commit: Dodano pliki ze statusem repo
+f450168 HEAD@{45}: commit: Dodano pomysł z GIT_1
+be46ce8 HEAD@{46}: commit (initial): Dodano plik z wersją Git
