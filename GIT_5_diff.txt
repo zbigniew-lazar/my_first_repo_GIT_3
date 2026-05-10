@@ -1,0 +1,5 @@
+Na podstawie polecenia git diff stwierdzono, że do pliku README.md została dodana nowa linia tekstu oznaczona symbolem "+".
+
+Symbol "+" oznacza dodanie nowej zawartości, natomiast "-" oznaczałby usunięcie.
+
+Polecenie git diff pozwala na porównanie zmian pomiędzy aktualnym stanem plików a ostatnim commitem.
