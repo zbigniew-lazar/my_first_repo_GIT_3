@@ -1,0 +1,5 @@
+System kontroli wersji można wykorzystać np. przy analizie danych bioinformatycznych, np. danych RNA-seq, jak w moim przypadku dane ze wzrostu komórek w podłożach z różnymi źródłami węgla. W trakcie pracy często zmienia się skrypty, poprawia błędy albo testuje różne podejścia i łatwo się w tym pogubić. Zwłaszcza kiedy dotyczy to różnych gatunków drożdży z tego samego rodzaju. 
+
+Dzięki Gitowi można zapisywać kolejne wersje plików i w razie potrzeby wrócić do wcześniejszej. Można też sprawdzić, co dokładnie zostało zmienione i kiedy.
+
+Jest to też przydatne przy pracy w kilka osób – każdy może pracować nad swoją częścią, a potem wszystko da się połączyć w jedną całość bez nadpisywania sobie pracy.
